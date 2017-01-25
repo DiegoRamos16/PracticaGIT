@@ -140,7 +140,7 @@ ul.social-icons li a:hover {
 	float:right;
 }
 .ps2 {
-	width:90%;
+	width:10%;
 	background:#30a5dc;
 	-moz-animation:html5 2s ease-out;
 	-webkit-animation:html5 2s ease-out;
@@ -158,7 +158,7 @@ ul.social-icons li a:hover {
 	-webkit-animation:jquery 2s ease-out;
 }
 .css2 {
-	width:85%;
+	width:50%;
 	background:#39d084;
 	-moz-animation:photoshop 2s ease-out;
 	-webkit-animation:photoshop 2s ease-out;
